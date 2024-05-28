@@ -1,8 +1,7 @@
-# 《东北窃听故事》
+# 《ICU 主治医师⼿册》
 
-- [《东北窃听故事》豆瓣阅读](https://read.douban.com/column/32678264/)
+- [项目主页](https://github.com/zuqiuxie/ICU-medical-books)
 
-二十多年前，我在东北小城的电话机房工作，因为一次偶然的窃听而彻底改变了命运。现侨居新西兰的我接到了一个意外的电话，这个电话把我带回了阔别多年的故乡小城，让我去揭开二十年前那改变多人命运的“窃听”事件的真相。
 
 [![cover](images/cover.jpg)](images/cover.jpg)
 
